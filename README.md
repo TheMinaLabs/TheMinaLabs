@@ -93,7 +93,7 @@ That philosophy comes from years of working in **Data Governance** — seeing wh
 - 🔬 **B.Sc. Chemical Engineering** — analytical thinking & process integrity
 - 💻 **B.Sc. Systems Analysis & Development** — software & systems foundations
 - 📋 **PMP (Project Management Professional)** — bridging technical and business
-- 📐 Currently completing a **Data Engineering Roadmap** (Airflow · Spark · Cloud · dbt)
+- 📐 Currently completing a **Data Engineering Roadmap** (Dagster · Spark · Cloud · dbt)
 
 ---
 
