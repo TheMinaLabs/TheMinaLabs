@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header banner using the VeraTrade color palette -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,1B4F8A,0E7C86&height=200&section=header&text=Mina%20Ioshida&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%C2%B7%20Governance%20Specialist%20%C2%B7%20Builder&descAlignY=58&descSize=18&descColor=BDD7EE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,1B4F8A,0E7C86&height=200&section=header&text=Mina%20Ioshida&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20to%20AI%20Engineering%20%C2%B7%20Builder&descAlignY=58&descSize=18&descColor=BDD7EE" width="100%"/>
 
 </div>
 
@@ -9,9 +9,9 @@
 
 ## 👋 Hi, I'm Mina
 
-I'm a **Data Engineer** with a rare background that spans Chemical Engineering, Systems Analysis, and years of hands-on work in **Data Governance & Data Quality**. I don't just build pipelines — I build ones you can actually trust.
+I'm a **Data Engineer** with a rare background that spans Chemical Engineering, Systems Analysis, and years of hands-on work in **Data Governance & Data Quality** — now applying that foundation to AI engineering. I don't just build pipelines — I build ones you can actually trust.
 
-Currently deepening my engineering stack and building **TheMinaLabs** — a portfolio of production-grade data projects designed to solve real problems with reliable, governed data.
+Currently deepening my engineering stack and building toward reliable, production-grade AI systems — starting from the same principle that's shaped everything I've built so far: trustworthy data first.
 
 ---
 
@@ -45,7 +45,7 @@ Currently deepening my engineering stack and building **TheMinaLabs** — a port
 
 ## 🚀 Featured Projects
 
-### 📈 [VeraTrade — High-Veracity Crypto Data Platform](https://github.com/TheMinaLabs/crypto-data)
+### 📈 [VeraTrade — High-Veracity Crypto Data Platform](https://github.com/hellofrommina/crypto-data)
 
 > *"Veritas" (truth) + Trading. Because data you can't trust is just noise.*
 
@@ -64,15 +64,15 @@ A **production-grade local Data Lakehouse** built with:
 
 ---
 
-## 🧭 What I Believe About Data
+## 🧭 What I Believe About Data (and now, AI)
 
 ```
-Good data engineering is not just about moving data fast.
-It's about making data trustworthy — at the source,
+Good engineering is not just about moving fast.
+It's about making systems trustworthy — at the source,
 through the pipeline, and at the point of decision.
 ```
 
-That philosophy comes from years of working in **Data Governance** — seeing what breaks when data quality is treated as optional. I bring that lens to everything I build.
+That philosophy comes from years of working in **Data Governance** — seeing what breaks when quality is treated as optional. I'm bringing that same lens to AI systems now.
 
 ---
 
@@ -80,9 +80,9 @@ That philosophy comes from years of working in **Data Governance** — seeing wh
 
 <div align="center">
 
-![TheMinaLabs GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheMinaLabs&show_icons=true&theme=tokyonight&hide_border=true&title_color=0E7C86&icon_color=0E7C86&text_color=BDD7EE&bg_color=0D1117)
+![hellofrommina GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellofrommina&show_icons=true&theme=tokyonight&hide_border=true&title_color=0E7C86&icon_color=0E7C86&text_color=BDD7EE&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMinaLabs&layout=compact&theme=tokyonight&hide_border=true&title_color=0E7C86&text_color=BDD7EE&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellofrommina&layout=compact&theme=tokyonight&hide_border=true&title_color=0E7C86&text_color=BDD7EE&bg_color=0D1117)
 
 </div>
 
@@ -93,7 +93,7 @@ That philosophy comes from years of working in **Data Governance** — seeing wh
 - 🔬 **B.Sc. Chemical Engineering** — analytical thinking & process integrity
 - 💻 **B.Sc. Systems Analysis & Development** — software & systems foundations
 - 📋 **PMP (Project Management Professional)** — bridging technical and business
-- 📐 Currently completing a **Data Engineering Roadmap** (Dagster · Spark · Cloud · dbt)
+- 📐 Currently completing an **AI Engineering Roadmap**, built on a Data Engineering foundation (Dagster · Spark · Cloud · dbt)
 
 ---
 
@@ -101,15 +101,15 @@ That philosophy comes from years of working in **Data Governance** — seeing wh
 
 I'm open to:
 
-- 🏢 **Data Engineering roles** (full-time or contract)
+- 🛠️ **Freelance & consulting** — data pipelines, data quality/governance, and AI engineering projects
 - 🔍 **Data Governance & Quality consulting** projects
-- 🛠️ **Freelance data pipeline** engagements
-- 💬 Conversations about data quality, governance frameworks, or DE career transitions
+- 🤖 **AI engineering** collaborations and gigs
+- 💬 Conversations about data quality, governance frameworks, or the data-to-AI-engineer transition
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mina%20Ioshida-1B4F8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minaioshida/)
-[![GitHub](https://img.shields.io/badge/GitHub-TheMinaLabs-0E7C86?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheMinaLabs)
+[![GitHub](https://img.shields.io/badge/GitHub-hellofrommina-0E7C86?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hellofrommina)
 
 </div>
 
